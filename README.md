@@ -56,3 +56,6 @@ Use Cases
 Identify high-revenue occasions and product categories.
 Optimize inventory and marketing strategies.
 Analyze geographical demand to plan targeted campaigns.
+
+![Screenshot ](https://github.com/user-attachments/assets/da10a8be-44e9-4b18-9e71-73d3377bb7fc)
+
